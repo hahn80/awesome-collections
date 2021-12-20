@@ -6,3 +6,4 @@ Some awesome tools for ML
 3. https://github.com/gslicht/Extractive-Summarization-of-a-News-Corpus-Using-BERT
 4. https://github.com/dmmiller612/bert-extractive-summarizer
 5. https://github.com/Sudo-VP/Vietnamese-Word-Segmentation-Python
+6. https://github.com/DoDuy/Deep-Learning-Specialization
